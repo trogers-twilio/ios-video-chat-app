@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "8B79D4651C2252A100489AA5"
-               BuildableName = "VideoQuickStart.app"
-               BlueprintName = "VideoQuickStart"
-               ReferencedContainer = "container:VideoQuickStart.xcodeproj">
+               BuildableName = "VideoChatApp.app"
+               BlueprintName = "VideoChatApp"
+               ReferencedContainer = "container:VideoChatApp.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "8B79D4651C2252A100489AA5"
-            BuildableName = "VideoQuickStart.app"
-            BlueprintName = "VideoQuickStart"
-            ReferencedContainer = "container:VideoQuickStart.xcodeproj">
+            BuildableName = "VideoChatApp.app"
+            BlueprintName = "VideoChatApp"
+            ReferencedContainer = "container:VideoChatApp.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -56,9 +56,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "8B79D4651C2252A100489AA5"
-            BuildableName = "VideoQuickStart.app"
-            BlueprintName = "VideoQuickStart"
-            ReferencedContainer = "container:VideoQuickStart.xcodeproj">
+            BuildableName = "VideoChatApp.app"
+            BlueprintName = "VideoChatApp"
+            ReferencedContainer = "container:VideoChatApp.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -75,9 +75,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "8B79D4651C2252A100489AA5"
-            BuildableName = "VideoQuickStart.app"
-            BlueprintName = "VideoQuickStart"
-            ReferencedContainer = "container:VideoQuickStart.xcodeproj">
+            BuildableName = "VideoChatApp.app"
+            BlueprintName = "VideoChatApp"
+            ReferencedContainer = "container:VideoChatApp.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
